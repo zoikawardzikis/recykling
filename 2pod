@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html> lang="pl"
+<head>
+<meta charset="utf-8" />
+    <title>RECYKLING</title>
+	<meta name="description" content="Przed Tobą strona, która pomoże Ci zrozumieć, co to recykling i jak wprowadzić go do życia codziennego." />
+	<meta name="keywords" content="recykling, śmieci odpady, segregacja śmieci, śmietniki, ekoport, PSZOK, odpady wielkogabaretowe, gdzie wyrzucić" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+
+<div class="header">
+  <h1>RECYKLING</h1>
+  <p><h5>Pomożemy ci odpowiednio zutylizować Twoje odpady!</h5></p>
+</div>
+
+<div class="linki">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h1>Co zrobić z odpadami, których nie wolno wyrzucić do pojemników do segregacji?</h1>
+      <h5>źródło: naszesmieci.mos.gov.pl</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Zużyty sprzęt RTV i AGD, opony, akumulator, gruz po remoncie, stare meble, leki, drewno - co zrobić z tymi odpadami? Takie rzeczy rzeczami możemy nieodpłatnie oddać w gminnym punkcie selektywnego zbierania odpadów komunalnych (PSZOK). Punkty te za darmo przyjmują odpady z gospodarstw domowych. Także te, które zawierają niebezpieczne materiały czy substancje. To bardzo ważne, by odpady niebezpieczne, czyli np. baterie, zużyte tonery, trafiły do PSZOK, ponieważ stamtąd zostaną przekazane do recyklerów, którzy, zajmują się ich przetwarzaniem. Pamiętajmy też, że przeterminowane leki oddamy za darmo również w aptekach, a gdy kupimy nowy toner czy sprzęt AGD, sprzedawca ma obowiązek nieodpłatnie odebrać od nas zużyty sprzęt tego samego rodzaju.
+</p>
+    </div>
+    <div class="card">
+      <h1>Gdzie w Szczecinie oddamy odpady? </h1>
+      <h5>źródło: ecoszczecin.pl</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>W każdym mieście znajdziemy co najmniej jeden PSZOK. Warto więc poszukać takiego najbliższego punktu i oddać tam odpady, z którymi nie wiemy, co zrobić. W ten sposób nie zanieczyszczamy środowiska, a mamy pewność, że osoby tam pracujące postąpią z nimi właściwie. Ekoporty, czyli punkty selektywnego zbierania odpadów komunalnych znajdują się w kilku miejscach koło Szczecina. Eksportu możemy znaleźć przy ul. Dworska (Plac Słowińców) Gumieńce, ul. Górna 3b Bukowo, ul. Leszczynowa Zdroje, ul. Arkońska, ul. Taczaka róg ul. Witkiewicza.
+</p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>O NASZEJ MISJI</h2>
+      <p>Naszą misją jest pomoc ludziom w odpowiednim segregowaniu śmieci. Nasza strona stanowi przewodnik w twojej podróży z recyglingiem. Nauczmy się dbać o planetę razem! </p>
+    </div>
+    <div class="card">
+      <h3>Popularne wpisy</h3>
+      <div class="fakeimg"><p>Image</p></div>
+      <div class="fakeimg"><p>Image</p></div>
+      <div class="fakeimg"><p>Image</p></div>
+    </div>
+    <div class="card">
+      <h3>Gdzie nas znajdziesz?</h3>
+      <p>Instagram: @kochamrecykling_szczecin<br> Facebook: Kocham Recykling Szczecin</p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Skontaktuj się z nami! 
+  kochamrecykling@mieszko1.com</h2>
+</div>
+
+</body>
+</html>
