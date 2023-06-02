@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+    <title>RECYKLING</title>
+	<meta name="description" content="Przed Tobą strona, która pomoże Ci zrozumieć, co to recykling i jak wprowadzić go do życia codziennego." />
+	<meta name="keywords" content="recykling, śmieci odpady, segregacja śmieci, śmietniki, ekoport, PSZOK, odpady wielkogabaretowe, gdzie wyrzucić" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+</head>
+<body>
+
+<div class="header">
+  <h1>RECYKLING</h1>
+  <p><h5>Pomożemy ci odpowiednio zutylizować Twoje odpady!</h5></p>
+</div>
+
+<div class="linki">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>Czym jest recykling?</h2>
+      <h5>źródło: Wikipedia</h5>
+      <div class="trash.jpeg" style="height:200px;">trash.jpeg</div>
+      <p>Recykling (recyklizacja, recyrkulacja) – proces przetwarzania odpadów (przemysłowych lub domowych) z produktów wycofanych z eksploatacji, w celu ponownego wprowadzenia do obiegu niektórych materiałów i użycia ich do produkcji nowych produktów. Materiały, które nadają się do ponownego wykorzystania, bywają opatrzone symbolem recyklingu. Recykling jest metodą ochrony środowiska naturalnego poprzez ograniczenie zużycia surowców pierwotnych oraz zmniejszenie ilości odpadów.
+	     <br>KLIKNIJ W LINKI POWYŻEJ ABY DOWIEDZIEĆ SIĘ WIĘCEJ O RECYKLINGU! </p>
+    </div>
+    <div class="card">
+      <h2>Dlaczego recykling jest ważny? </h2>
+      <h5>źródło: chatGPT</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Recykling jest ważny z kilku powodów: <br>Ograniczenie odpadów: Poprzez recykling, można zmniejszyć ilość odpadów trafiających na wysypiska śmieci lub spalarnie. Wiele odpadów, takich jak papier, plastik, szkło czy metal, może być przetworzone i wykorzystane ponownie.
+        <br>Oszczędność zasobów naturalnych: Recykling umożliwia ponowne wykorzystanie już wydobytych surowców. Na przykład, zamiast wycinania nowych drzew na produkcję papieru, można przetwarzać zużyty papier i wykorzystywać go do produkcji nowego papieru. To pozwala oszczędzić energię i surowce naturalne, które byłyby potrzebne do wytworzenia nowych materiałów. <br>Redukcja emisji gazów cieplarnianych: Recykling ma potencjał zmniejszenia emisji gazów cieplarnianych związanych z produkcją nowych materiałów. Proces recyklingu często wymaga mniejszej ilości energii w porównaniu do produkcji z surowców pierwotnych. Oznacza to, że mniej paliw kopalnych jest spalanych, co przyczynia się do ograniczenia emisji dwutlenku węgla i innych szkodliwych gazów. <br>Ochrona środowiska: Recykling pomaga zmniejszyć negatywny wpływ na środowisko. Składowiska odpadów są często źródłem zanieczyszczeń gleby i wód gruntowych. Ponadto, wiele produktów, takich jak plastik, rozkłada się bardzo wolno w naturalnych warunkach, co przyczynia się do zanieczyszczenia środowiska. Recykling pozwala zmniejszyć ilość odpadów, które trafiają do środowiska naturalnego. <br>Recykling jest ważnym aspektem zrównoważonego rozwoju i ochrony środowiska. Stosowanie recyklingu przyczynia się do lepszej gospodarki odpadami, efektywnego wykorzystania zasobów i ochrony przyrody dla przyszłych pokoleń.
+</p>
+     
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>O NASZEJ MISJI</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>Naszą misją jest pomoc ludziom w odpowiednim segregowaniu śmieci. Nasza strona stanowi przewodnik w twojej podróży z recyglingiem. Nauczmy się dbać o planetę razem! </p>
+    </div>
+    <div class="card">
+      <h3>Zadowoleni użytkownicy naszej strony:</h3>
+      <div class=img src = img/trash.jpeg> <p>image</p></div>
+      <div class=img src= fakeimg><p>Image</p></div>
+      <div class=img "fakeimg"><p>Image</p></div>
+    </div>
+    <div class="card">
+      <h3></h3>
+      <p>Some </p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Skontaktuj się z nami! 
+  kochamrecykling@gmail.com</h2>
+</div>
+
+</body>
+</html>
