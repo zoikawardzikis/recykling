@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: sans-serif;
+  padding: 10px;
+  background: #66CC33;
+}
+
+/* Tytuł strony */
+.header {
+  padding: 30px;
+  text-align: center;
+  background: white;
+  font-family: sans-serif;
+  color: green;
+  margin: 30px;
+
+}
+/* Recykling */
+.header h1 {
+  font-size: 80px;
+}
+.header h5 {
+	font-size: 20px;
+}
+
+/* blok nawigacyjny */
+.linki {
+  overflow: hidden;
+  background-color: #CCFF99;
+  margin-bottom: 20px;
+}
+
+/* Linki w bloku nawigacyjnym */
+.linki a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+/* Kolor po najechaniu */
+.linki a:hover {
+  background: #66CC33;
+  color: white;
+}
+
+/* dwie kolumny obok siebie */
+/* lewa kolumna */
+.leftcolumn {   
+  float: left;
+  width: 75%;
+  font-family: sans-serif;
+  text-align: justify;
+  background-color: #CCFF99;
+}
+
+/* prawa kolumna */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  
+  background-color: #CCFF99;
+}
+
+/* zdjęcie */
+.fakeimg {
+  background-color: #66CC33;
+  width: 100%;
+  padding: 20px;
+}
+
+/* efekt do artykułów */
+.card {
+  background-color: White;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: sans-serif;
+
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* stopka */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #66CC33;
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: green;
+}
+
+/* Układ dostosowywany - Jeżeli ekran ma mniej niż 800px szerokości, dwie kolumny będa nad sobą, a nie obok siebie */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+/* Układ dostosowywany - Jeżeli obraz ma mniej niż 400px szerokości, linki nawigacyjne będą nad sobą, a nie obok siebie */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
